@@ -26,11 +26,11 @@ Accomplished Cybersecurity Author with three published books:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Raising Cybersecurity Awareness
-- 🌱 I’m currently learning AI tools
-- 👯 I’m looking to collaborate on Initiatives to raise Cybersecurity Awareness
-- 🤔 I’m looking for help with Initiatives to raise Cybersecurity Awareness
-- 💬 Ask me about Cybersecurity
-- 📫 How to reach me: https://AnandShinde.com/
-- ⚡ Fun fact: न चिंता, न भयं हो... बस महाकाल की जय हो 🔱🚩
+- I’m currently working on Raising Cybersecurity Awareness
+- I’m currently learning AI tools
+- I’m looking to collaborate on Initiatives to raise Cybersecurity Awareness
+- I’m looking for help with Initiatives to raise Cybersecurity Awareness
+- Ask me about Cybersecurity
+- How to reach me: https://AnandShinde.com/
+- Fun fact: न चिंता, न भयं हो... बस महाकाल की जय हो 🔱🚩
 -->
